@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../PUF_manualPR.ip_user_files/ipstatic" \
+"pufs_nx4_time_synth.v" \
+"../../../../../PUF_manualPR.srcs/sources_1/new/pufs_nx4.v" \
+
+# Do not sort compile order
+nosort

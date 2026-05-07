@@ -1,0 +1,28 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot pufs_nx4_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.pufs_nx4 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3180] cannot find port 'probe33' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:77]
+ERROR: [VRFC 10-3180] cannot find port 'probe32' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:76]
+ERROR: [VRFC 10-3180] cannot find port 'probe31' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:75]
+ERROR: [VRFC 10-3180] cannot find port 'probe30' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:74]
+ERROR: [VRFC 10-3180] cannot find port 'probe29' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:73]
+ERROR: [VRFC 10-3180] cannot find port 'probe28' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:72]
+ERROR: [VRFC 10-3180] cannot find port 'probe27' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:71]
+ERROR: [VRFC 10-3180] cannot find port 'probe26' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:70]
+ERROR: [VRFC 10-3180] cannot find port 'probe25' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:69]
+ERROR: [VRFC 10-3180] cannot find port 'probe24' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:68]
+ERROR: [VRFC 10-3180] cannot find port 'probe23' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:67]
+ERROR: [VRFC 10-3180] cannot find port 'probe22' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:66]
+ERROR: [VRFC 10-3180] cannot find port 'probe21' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:65]
+ERROR: [VRFC 10-3180] cannot find port 'probe20' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:64]
+ERROR: [VRFC 10-3180] cannot find port 'probe19' on this module [H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v:63]
+ERROR: [VRFC 10-8530] module 'FDRE_default' is ignored due to previous errors [/wrk/ci/prod/2023.2/rdi_builds/continuous/2023_10_13_4029153/data/verilog/src/unisims/FDRE.v:27]
+ERROR: [VRFC 10-8530] module 'SRL16E_default' is ignored due to previous errors [/wrk/ci/prod/2023.2/rdi_builds/continuous/2023_10_13_4029153/data/verilog/src/unisims/SRL16E.v:29]
+ERROR: [VRFC 10-8530] module 'FDSE_default' is ignored due to previous errors [/wrk/ci/prod/2023.2/rdi_builds/continuous/2023_10_13_4029153/data/verilog/src/unisims/FDSE.v:27]
+ERROR: [VRFC 10-8530] module 'SRLC32E_default' is ignored due to previous errors [/wrk/ci/prod/2023.2/rdi_builds/continuous/2023_10_13_4029153/data/verilog/src/unisims/SRLC32E.v:30]
+INFO: [#UNDEF] Sorry, too many errors..
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
