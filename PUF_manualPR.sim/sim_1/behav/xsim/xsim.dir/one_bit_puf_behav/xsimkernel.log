@@ -1,0 +1,4 @@
+Running: xsim.dir/one_bit_puf_behav/xsimk.exe -simmode gui -wdb one_bit_puf_behav.wdb -simrunnum 0 -socket 55259
+Design successfully loaded
+Design Loading Memory Usage: 9464 KB (Peak: 9464 KB)
+Design Loading CPU Usage: 77 ms

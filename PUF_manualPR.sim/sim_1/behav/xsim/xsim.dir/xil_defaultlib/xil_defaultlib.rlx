@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+H:/PUF/DD_PUF_inner_one_bit/DD_PUF_inner_one_bit.srcs/sources_1/new/one_bit_puf.v,1765481492,verilog,,H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/puf_clk_mux.v,,Dlatch;one_bit_puf,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.gen/sources_1/ip/ila_0_1/sim/ila_0.v,1772537437,verilog,,H:/PUF/DD_PUF_inner_one_bit/DD_PUF_inner_one_bit.srcs/sources_1/new/one_bit_puf.v,,ila_0,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/4_bit_puf.v,1774330128,verilog,,,,four_bit_puf,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/puf_clk_mux.v,1772222097,verilog,,H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/puf_clkdiv.v,,puf_clk_mux,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/puf_clkdiv.v,1772073232,verilog,,H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/4_bit_puf.v,,puf_clkdiv,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,
+H:/PUF/PUF_manualPR/PUF_manualPR.srcs/sources_1/new/pufs_nx4.v,1771994772,verilog,,,,pufs_nx4,,,../../../../PUF_manualPR.ip_user_files/ipstatic,,,,,

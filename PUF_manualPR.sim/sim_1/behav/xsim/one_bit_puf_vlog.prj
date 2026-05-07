@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../PUF_manualPR.ip_user_files/ipstatic" \
+"../../../../../DD_PUF_inner_one_bit/DD_PUF_inner_one_bit.srcs/sources_1/new/one_bit_puf.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

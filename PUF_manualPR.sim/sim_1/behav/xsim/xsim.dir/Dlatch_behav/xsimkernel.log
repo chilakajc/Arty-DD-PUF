@@ -1,0 +1,7 @@
+Running: xsim.dir/Dlatch_behav/xsimk.exe -simmode gui -wdb Dlatch_behav.wdb -simrunnum 0 -socket 65180
+Design successfully loaded
+Design Loading Memory Usage: 10308 KB (Peak: 10308 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 10824 KB (Peak: 10824 KB)
+Simulation CPU Usage: 77 ms
